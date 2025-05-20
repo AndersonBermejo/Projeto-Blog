@@ -6,7 +6,7 @@ Este repositório contém uma aplicação web simples de blog, desenvolvida como
 
 * **Criar Novo Post:** Adicione novos posts ao blog com um título e conteúdo.
 * **Visualizar Posts:** Exibe uma lista de todos os posts criados.
-* **Comentários:** Após o post criado pode ser inseridos comentários no mesmo.
+* **Comentários:** Após o post criado pode ser colocado comentários.
 * **Remover Post:** Selecione e remova posts existentes.
 
 ## Demonstração
