@@ -1,4 +1,4 @@
-# Aplicação de Blog Simples utilizando o azure para fazer a integração da aplicação
+# Aplicação de Blog Simples utilizando o Azure para fazer a integração da aplicação
 
 Este repositório contém uma aplicação web simples de blog, desenvolvida como parte do curso Microsoft Azure Cloud Native. A aplicação permite a criação, visualização e remoção de posts.
 
@@ -6,6 +6,7 @@ Este repositório contém uma aplicação web simples de blog, desenvolvida como
 
 * **Criar Novo Post:** Adicione novos posts ao blog com um título e conteúdo.
 * **Visualizar Posts:** Exibe uma lista de todos os posts criados.
+* **Comentários:** Após o post criado pode ser inseridos comentários no mesmo.
 * **Remover Post:** Selecione e remova posts existentes.
 
 ## Demonstração
